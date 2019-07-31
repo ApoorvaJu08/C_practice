@@ -5,3 +5,5 @@ int main()
     printf("\bsi");
     printf("\rha");
 }
+
+//output ha

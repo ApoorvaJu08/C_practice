@@ -5,5 +5,7 @@ int main()
     int *p, *q;
     p = &a[2][2][2];
     *q = ***a;
-    printf("%d---", *q);
+    printf("%d---%d", *q);
 }
+
+//output - some garbage value----10
