@@ -17,5 +17,5 @@ int main()
     {
         printf("Not an armstrong number\n");
     }
-    return 0;
+    return 0; 
 }
